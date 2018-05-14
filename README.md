@@ -48,3 +48,6 @@ If so, stop the calculation and plot a _black dot_ at the current location.
 If `C` has not exceeded the threshold value after a predetermined number of
 iterations, we will assume that the current parameters makes the function
 converge.  In this case, plot a non-black dot at the current location.
+
+
+<img src="Mandelbrot set.jpg" alt="Figure"/>
